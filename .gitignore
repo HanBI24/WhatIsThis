@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+/buildSrc/build/distributions/buildSrc.tar
+/buildSrc/build/distributions/buildSrc.zip
