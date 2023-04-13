@@ -1,4 +1,4 @@
-package com.example.whatisthis
+package com.example.whatisthis_xml
 
 import org.junit.Test
 
